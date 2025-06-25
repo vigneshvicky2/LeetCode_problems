@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0506-relative-ranks) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
