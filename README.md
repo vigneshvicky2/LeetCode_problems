@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0020-valid-parentheses) |
+| [2470-removing-stars-from-a-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0225-implement-stack-using-queues) |
+| [2470-removing-stars-from-a-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0024-swap-nodes-in-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
