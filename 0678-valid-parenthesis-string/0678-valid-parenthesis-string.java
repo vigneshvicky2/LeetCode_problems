@@ -1,6 +1,6 @@
 class Solution {
     public boolean checkValidString(String s) {
-        Stack<Integer> br = new Stack<>();
+        Stack<Integer> br = new Stack<>();  // my apporoach
         Stack<Integer> sr = new Stack<>();
         for(int i =0; i<s.length();i++){
             char ch = s.charAt(i);
