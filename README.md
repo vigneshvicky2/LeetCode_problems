@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0079-word-search) |
+| [0678-valid-parenthesis-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0678-valid-parenthesis-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0225-implement-stack-using-queues) |
+| [0678-valid-parenthesis-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0678-valid-parenthesis-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2470-removing-stars-from-a-string) |
 ## Design
@@ -71,10 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0678-valid-parenthesis-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0678-valid-parenthesis-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Memoization
 |  |
