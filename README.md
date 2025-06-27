@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0079-word-search) |
 | [0506-relative-ranks](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0506-relative-ranks) |
 | [2232-adding-spaces-to-a-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2232-adding-spaces-to-a-string) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
