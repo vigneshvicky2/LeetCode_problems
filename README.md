@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0079-word-search) |
+| [0120-triangle](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0120-triangle) |
 | [0506-relative-ranks](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0506-relative-ranks) |
 | [2232-adding-spaces-to-a-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2232-adding-spaces-to-a-string) |
 ## Sorting
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0120-triangle) |
 | [0678-valid-parenthesis-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0678-valid-parenthesis-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Greedy
