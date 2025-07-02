@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0678-valid-parenthesis-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Greedy
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0070-climbing-stairs) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Tree
 |  |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
