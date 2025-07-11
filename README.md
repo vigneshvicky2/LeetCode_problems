@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0213-house-robber-ii) |
 | [0506-relative-ranks](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0506-relative-ranks) |
+| [0523-continuous-subarray-sum](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0523-continuous-subarray-sum) |
 | [2232-adding-spaces-to-a-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2232-adding-spaces-to-a-string) |
 ## Sorting
 |  |
@@ -113,9 +114,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0070-climbing-stairs) |
+| [0523-continuous-subarray-sum](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0523-continuous-subarray-sum) |
 ## Database
 |  |
 | ------- |
 | [1161-project-employees-i](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1161-project-employees-i) |
 | [1827-invalid-tweets](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1827-invalid-tweets) |
+## Hash Table
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0523-continuous-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
