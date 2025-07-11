@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0506-relative-ranks) |
+| [0807-custom-sort-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0807-custom-sort-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0079-word-search) |
 | [0678-valid-parenthesis-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0678-valid-parenthesis-string) |
+| [0807-custom-sort-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0807-custom-sort-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0523-continuous-subarray-sum) |
+| [0807-custom-sort-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0807-custom-sort-string) |
 ## Prefix Sum
 |  |
 | ------- |
