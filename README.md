@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0196-delete-duplicate-emails) |
 | [1161-project-employees-i](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1161-project-employees-i) |
 | [1827-invalid-tweets](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1827-invalid-tweets) |
 ## Hash Table
