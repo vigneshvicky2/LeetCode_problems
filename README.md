@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0975-range-sum-of-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1285-balance-a-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0134-gas-station) |
 | [0678-valid-parenthesis-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0678-valid-parenthesis-string) |
+| [1285-balance-a-binary-search-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1285-balance-a-binary-search-tree) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Memoization
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0975-range-sum-of-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0975-range-sum-of-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1285-balance-a-binary-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -149,4 +153,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0975-range-sum-of-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1285-balance-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
