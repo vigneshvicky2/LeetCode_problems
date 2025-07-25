@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0196-delete-duplicate-emails) |
 | [1161-project-employees-i](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1161-project-employees-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [1480-movie-rating](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1480-movie-rating) |
 | [1827-invalid-tweets](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1827-invalid-tweets) |
 ## Hash Table
 |  |
