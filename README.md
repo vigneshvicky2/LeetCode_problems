@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0213-house-robber-ii) |
 | [0506-relative-ranks](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0506-relative-ranks) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0678-valid-parenthesis-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0523-continuous-subarray-sum](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0523-continuous-subarray-sum) |
 ## Database
 |  |
