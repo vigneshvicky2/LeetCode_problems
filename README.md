@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0585-investments-in-2016) |
 | [1161-project-employees-i](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1161-project-employees-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1462-list-the-products-ordered-in-a-period) |
