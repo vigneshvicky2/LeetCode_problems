@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0079-word-search) |
+| [0394-decode-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0807-custom-sort-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0807-custom-sort-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0678-valid-parenthesis-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2470-removing-stars-from-a-string) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0024-swap-nodes-in-pairs) |
+| [0394-decode-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0394-decode-string) |
 ## Simulation
 |  |
 | ------- |
