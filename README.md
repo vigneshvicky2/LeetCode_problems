@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0975-range-sum-of-bst) |
 | [1285-balance-a-binary-search-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1285-balance-a-binary-search-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0112-path-sum) |
+| [2121-find-if-path-exists-in-graph](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -192,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1285-balance-a-binary-search-tree) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2121-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
