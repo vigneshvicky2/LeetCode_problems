@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0213-house-robber-ii) |
 | [0506-relative-ranks](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0523-continuous-subarray-sum) |
+| [0695-max-area-of-island](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0747-min-cost-climbing-stairs) |
 | [2232-adding-spaces-to-a-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2232-adding-spaces-to-a-string) |
 ## Sorting
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0207-course-schedule](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0695-max-area-of-island](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0695-max-area-of-island) |
 | [0975-range-sum-of-bst](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0975-range-sum-of-bst) |
 | [1285-balance-a-binary-search-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1285-balance-a-binary-search-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2121-find-if-path-exists-in-graph) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0079-word-search) |
+| [0695-max-area-of-island](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0695-max-area-of-island) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0207-course-schedule) |
+| [0695-max-area-of-island](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
