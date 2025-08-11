@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0207-course-schedule](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0975-range-sum-of-bst) |
 | [1285-balance-a-binary-search-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1285-balance-a-binary-search-tree) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0207-course-schedule) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -208,5 +210,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0207-course-schedule) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2121-find-if-path-exists-in-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
