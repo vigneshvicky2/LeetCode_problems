@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0079-word-search) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0079-word-search) |
 ## Depth-First Search
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0079-word-search) |
 | [0695-max-area-of-island](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0695-max-area-of-island) |
 ## Two Pointers
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0037-sudoku-solver) |
 | [0523-continuous-subarray-sum](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0523-continuous-subarray-sum) |
 | [0807-custom-sort-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0807-custom-sort-string) |
 ## Prefix Sum
