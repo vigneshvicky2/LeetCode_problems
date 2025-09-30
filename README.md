@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0747-min-cost-climbing-stairs) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2232-adding-spaces-to-a-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2470-removing-stars-from-a-string) |
 ## Backtracking
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0523-continuous-subarray-sum) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Database
 |  |
 | ------- |
@@ -230,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/0207-course-schedule) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/vigneshvicky2/LeetCode_problems/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
